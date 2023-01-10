@@ -19,7 +19,7 @@
     "@types/mongoose": "^5.7.29",
     "express": "^4.17.1",
     "express-handlebars": "^4.0.5",
-    "firebase-admin": "^8.10.0",
+    "firebase-admin": "^11.4.1",
     "firebase-functions": "^3.6.1",
     "mongoose": "^5.9.21"
   },
